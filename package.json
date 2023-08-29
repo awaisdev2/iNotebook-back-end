@@ -1,0 +1,14 @@
+{
+  "name": "iNotebook-backend",
+  "version": "1.0.0",
+  "description": "iNotebook backend ",
+  "main": "index.js",
+  "author": "Awais dev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^7.4.5",
+    "nodemon": "^3.0.1"
+  }
+}
